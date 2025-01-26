@@ -7,3 +7,4 @@ client/public/logo512.png
 *.md
 *.js
 /server/node_modules
+/.idea
