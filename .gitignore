@@ -1,0 +1,9 @@
+
+*.html
+client/public/logo512.png
+/client/public
+/client
+/server/node_modules/.bin
+*.md
+*.js
+/server/node_modules
